@@ -1,1 +1,2 @@
-# Atividade-1---Pontos-GCC_253
+# GCC_253
+Atividade 1 - Pontos, Complexidade e Projetos de Algoritmos
